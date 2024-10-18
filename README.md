@@ -61,4 +61,5 @@ Aplikasi ini dikembangkan untuk meningkatkan kualitas citra yang terpengaruh ole
 
 
 ## 👨‍💻 Pengembang
-Emanuel Charel Alessando Soge | GitHub
+[Visit My GitHub](https://github.com/Charelas)
+
