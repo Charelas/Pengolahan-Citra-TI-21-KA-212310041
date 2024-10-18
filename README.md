@@ -17,9 +17,6 @@ Aplikasi ini dikembangkan untuk meningkatkan kualitas citra yang terpengaruh ole
 - 💾 **Menyimpan gambar hasil** dengan format `.png`.
 - 📊 **Menampilkan histogram** untuk membandingkan gambar asli dan yang telah diproses.
 
-## 🎬 Demo Aplikasi
-![Image Enhancement Demo](demo.gif)
-
 ## 📸 Screenshot
 ![Tampilan Aplikasi](./screenshots/app_screenshot.png)
 
