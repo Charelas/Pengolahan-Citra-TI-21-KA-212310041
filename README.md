@@ -20,6 +20,10 @@ Aplikasi ini dikembangkan untuk meningkatkan kualitas citra yang terpengaruh ole
 ## 🎬 Demo Aplikasi
 ![Image Enhancement Demo](demo.gif)
 
+## 📸 Screenshot
+![Tampilan Aplikasi](./screenshots/app_screenshot.png)
+
+
 ## 🛠️ Cara Instalasi
 
 1. Clone repository ini ke lokal Anda:
@@ -61,5 +65,5 @@ Aplikasi ini dikembangkan untuk meningkatkan kualitas citra yang terpengaruh ole
 
 
 ## 👨‍💻 Pengembang
-[Visit My GitHub](https://github.com/Charelas)
+[Visit My GitHub](https://github.com/Charelas) | Github
 
