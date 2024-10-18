@@ -18,8 +18,13 @@ Aplikasi ini dikembangkan untuk meningkatkan kualitas citra yang terpengaruh ole
 - 📊 **Menampilkan histogram** untuk membandingkan gambar asli dan yang telah diproses.
 
 ## 📸 Screenshot
-![Tampilan Aplikasi](./screenshots/app_screenshot.png)
+**Menu Utama**
 
+![Tampilan Aplikasi](./ss/SS1.png)
+
+**Contoh Perbaikan Citra**
+
+![Tampilan Aplikasi](./ss/SS2.png)
 
 ## 🛠️ Cara Instalasi
 
