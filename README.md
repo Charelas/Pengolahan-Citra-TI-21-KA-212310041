@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Aplikasi+Perbaikan+Kualitas+Citra+)](https://git.io/typing-svg)
+
 # ✨ Image Enhancement Application 🖼️
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
@@ -55,30 +58,6 @@ Aplikasi ini dikembangkan untuk meningkatkan kualitas citra yang terpengaruh ole
 * OpenCV: Untuk pengolahan citra
 * PIL (Pillow): Untuk memanipulasi gambar
 * Matplotlib: Untuk menampilkan histogram
-
-
-<style>
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  @keyframes blink {
-    50% { border-color: transparent; }
-  }
-
-  .typing-text {
-    font-family: monospace;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 2px solid;
-    width: 0;
-    animation: typing 5s steps(30, end), blink 0.75s step-end infinite;
-  }
-</style>
-
-<div class="typing-text">🎉 Aplikasi Perbaikan Kualitas Citra Siap Digunakan! 🎉</div>
-
 
 
 ## 👨‍💻 Pengembang
